@@ -4,6 +4,6 @@ By day, I work as the CTO of [alfa Media Partner GmbH](https://alfamedia.com). W
 
 Things I am currently working on are: A ReactNative app that replaces two older native apps for iOS and Android at work and an Elixir-based side project, that will be released (hopefully) soon.
 
-You can find me here: [Twitter](https://twitter.com/oliverandrich) • [LinkedIn](https://www.linkedin.com/in/oliver-andrich-3a6a97200/) • [Dev](https://dev.to/oliverandrich) • [Medium](https://medium.com/@oliverandrich)
+You can find me here: [Twitter](https://twitter.com/oliverandrich) • [LinkedIn](https://www.linkedin.com/in/oliver-andrich-3a6a97200/) • [Dev](https://dev.to/oliverandrich)
 
 
