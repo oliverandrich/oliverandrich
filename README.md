@@ -4,4 +4,4 @@ By day, I work as the CTO of [alfa Media Partner GmbH](https://alfamedia.com). W
 
 I am part of the [django-commons](https://github.com/django-commons$0) team and maintain [django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli), which I started a few years ago. My other open source projects can be found on [Codeberg](https://codeberg.org/oliverandrich).
 
-You can find me here: [Mastodon](https://2pxnl.de/@oliver) • [Blog](https://andrich.me/) • [Bsky](https://bsky.app/profile/andrich.me) • [LinkedIn](https://www.linkedin.com/in/oliver-andrich-3a6a97200/) • [GitHub](https://github.com/oliverandrich) • [Codeberg](https://codeberg.org/oliverandrich$0)
+You can find me here: [Mastodon](https://social.tchncs.de/@oliverandrich) • [Blog](https://someonewho.codes/) • [LinkedIn](https://www.linkedin.com/in/oliver-andrich-3a6a97200/) • [GitHub](https://github.com/oliverandrich) • [Codeberg](https://codeberg.org/oliverandrich)
