@@ -10,31 +10,23 @@ You can find me here: [Mastodon](https://social.tchncs.de/@oliverandrich) • [B
 
 ### Django & Python
 
-| Project | Description |
-| --- | --- |
-| [django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli) | Django and Tailwind integration using the standalone Tailwind CSS CLI. No Node.js required. |
-| [django-project-starter](https://github.com/oliverandrich/django-project-starter) | Django `startproject` template with batteries included and modern tooling. |
+- **[django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli)**: Django and Tailwind integration using the standalone Tailwind CSS CLI. No Node.js required.
+- **[django-project-starter](https://github.com/oliverandrich/django-project-starter)**: Django `startproject` template with batteries included and modern tooling.
 
 ### Elixir & Phoenix
 
-| Project | Description |
-| --- | --- |
-| [ithibati](https://github.com/oliverandrich/ithibati) | Passkey authentication for Elixir: accounts, WebAuthn credentials, recovery codes, revocable sessions. |
-| [ithibati-starter](https://github.com/oliverandrich/ithibati-starter) | Opinionated Phoenix starter with Ithibati passkeys, Tailwind and Lucide. |
+- **[ithibati](https://github.com/oliverandrich/ithibati)**: Passkey authentication for Elixir with accounts, WebAuthn credentials, recovery codes and revocable sessions.
+- **[ithibati-starter](https://github.com/oliverandrich/ithibati-starter)**: Opinionated Phoenix starter with Ithibati passkeys, Tailwind and Lucide.
 
 ### Go command-line tools
 
-| Project | Description |
-| --- | --- |
-| [eol-date](https://github.com/oliverandrich/eol-date) | Check end-of-life and support dates for software products from the terminal. |
-| [gohatch](https://github.com/oliverandrich/gohatch) | Scaffold Go projects from git-hosted templates with automatic module path rewriting. |
-| [go-cli-template](https://github.com/oliverandrich/go-cli-template) | gohatch template for Go CLIs with urfave/cli, GoReleaser and golangci-lint. |
+- **[eol-date](https://github.com/oliverandrich/eol-date)**: Check end-of-life and support dates for software products from the terminal.
+- **[gohatch](https://github.com/oliverandrich/gohatch)**: Scaffold Go projects from git-hosted templates with automatic module path rewriting.
+- **[go-cli-template](https://github.com/oliverandrich/go-cli-template)**: gohatch template for Go CLIs with urfave/cli, GoReleaser and golangci-lint.
 
 Install eol-date and gohatch from my [Homebrew tap](https://github.com/oliverandrich/homebrew-tap): `brew install --cask oliverandrich/tap/<name>`.
 
 ### Contributions
 
-| Project | Description |
-| --- | --- |
-| [vutuv](https://github.com/wintermeyer/vutuv) | Open-source social network written in Elixir and Phoenix. |
-| [heinzel](https://github.com/wintermeyer/heinzel) | Ruleset that turns AI coding assistants into careful Linux, FreeBSD and macOS sysadmins. |
+- **[vutuv](https://github.com/wintermeyer/vutuv)**: Open-source social network written in Elixir and Phoenix.
+- **[heinzel](https://github.com/wintermeyer/heinzel)**: Ruleset that turns AI coding assistants into careful Linux, FreeBSD and macOS sysadmins.
