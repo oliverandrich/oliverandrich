@@ -17,6 +17,7 @@ You can find me here: [Mastodon](https://social.tchncs.de/@oliverandrich) • [B
 
 - **[ithibati](https://github.com/oliverandrich/ithibati)**: Passkey authentication for Elixir with accounts, WebAuthn credentials, recovery codes and revocable sessions.
 - **[ithibati-starter](https://github.com/oliverandrich/ithibati-starter)**: Opinionated Phoenix starter with Ithibati passkeys, Tailwind and Lucide.
+- **[jibu](https://github.com/oliverandrich/jibu)**: Thin Anthropic API client built on Req, with structured output, files, batches and a tool loop.
 - **[sikio](https://github.com/oliverandrich/sikio)**: Self-hosted media library for podcasts, YouTube and PeerTube with an inbox, a queue and a history.
 - **[peertube-embed-client](https://github.com/oliverandrich/peertube-embed-client)**: Dependency-free JavaScript client for the postMessage API of PeerTube embeds, used by sikio.
 
